@@ -82,8 +82,8 @@ def binary_to_decimal(binary):
 
 def main():
     """Función principal"""
-    print("[1] - Convert de DECIMAL a BINARIO.")
-    print("[2] - Convert de BINARIO a DECIMAL.")
+    print("[1] - Conversion de DECIMAL a BINARIO.")
+    print("[2] - Conversion de BINARIO a DECIMAL.")
 
     option = 0
     
