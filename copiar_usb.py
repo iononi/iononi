@@ -11,9 +11,9 @@ def src_to_dst(src, dst):
 					cpy_files += 1
 	return cpy_files
 
-result = src_to_dst("C:/Users/Eduardo/Desktop/Music", "E:/Music")
+copied_files = src_to_dst("C:/Users/Eduardo/Desktop/Music", "E:/Music")
 
-if result != 0:
-	print("The songs has been sucessfully copied!\nCopied Elements: {number}".format(number=result))
+if copied_files != 0:
+	print("The songs has been sucessfully copied!\nCopied Elements: {number}".format(number=copied_files))
 else:
-	print("Something went wrong in the process :/\nCopied Elements: {number}".format(number=result))
+	print("Something went wrong in the process :/\nCopied Elements: {number}".format(number=copied_files))
