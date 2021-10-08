@@ -61,7 +61,7 @@ def binary_to_decimal(binary):
         return False, "Compruebe que ha ingresado un numero binario valido."
 
     e = 0   #Un exponente que simboliza la máxima potencia de 2 para el número en cuestión
-    decimal_number = 0      #Variable donde se almacenará el resultado de la conversión
+    decimal_number = 0
 
     if len(check[1]) > 0:
         e = len(check[1]) - 1
@@ -82,8 +82,8 @@ def binary_to_decimal(binary):
 
 def main():
     """Función principal"""
-    print("[1] - Convertir de DECIMAL a BINARIO.")
-    print("[2] - Convertir de BINARIO a DECIMAL.")
+    print("[1] - Convert de DECIMAL a BINARIO.")
+    print("[2] - Convert de BINARIO a DECIMAL.")
 
     option = 0
     
