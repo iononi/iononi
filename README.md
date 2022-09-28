@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iononi
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning how to use Git and GitHub to keep track of the changes on my scripts and collaborate with others
+- 👀 I’m interested in Data Science, Machine Learning, AI and I'm strongly oriented to BackEnd Development. I like automation, too.
 - 📫 You can contact me via email at eduardo.ruiz.rios09@gmail.com
 
 <!---
