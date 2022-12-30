@@ -61,6 +61,7 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/insomnia.svg" alt="insomnia REST" width="40" height="40"/> </a>
 </p>
 
 <br/>
@@ -115,6 +116,18 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <br/>
 <p align="center">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center"><b>Software</b></h3>
+<br/>
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual studio" width="40" height="40"/> </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Sublime_Text_Logo_White.svg" alt="sublime text" width="40" height="40" /> </a>
+  <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40" /> </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40" /> </a>
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40" /> </a>
+  <a href="https://obsproject.com/es/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" alt="obs studio" width="40" height="40" /> </a>
 </p>
 
 <br/>
