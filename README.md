@@ -8,9 +8,6 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <hr/>
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iononi&label=Profile%20views&color=0e75b6&style=flat" alt="iononi" /> </p>
-
-<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iononi" alt="iononi" /></a> </p>
 
