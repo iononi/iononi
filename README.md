@@ -123,7 +123,7 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual studio" width="40" height="40"/> </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Sublime_Text_Logo_White.svg" alt="sublime text" width="40" height="40" /> </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/iononi/iononi/blob/main/icons/sublime-text.svg" alt="sublime text" width="40" height="40" /> </a>
   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40" /> </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40" /> </a>
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40" /> </a>
