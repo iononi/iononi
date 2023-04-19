@@ -61,7 +61,7 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/insomnia.svg" alt="insomnia REST" width="40" height="40"/> </a>
+  <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> <img src="icons/insomnia.svg" alt="insomnia REST" width="40" height="40"/> </a>
 </p>
 
 <br/>
