@@ -13,9 +13,9 @@ I started my journey through programming world 2 years ago. To be honest with yo
 
 <br/>
 
-- 🔭 I’m currently working on [Pizzas ARA](https://github.com/alcocer8/pizzas-ara/tree/new-feature)
+- 🔭 I’m currently working on [TenarisTamsa](https://www.tenaristamsa.com/es)
 
-- 🌱 I’m currently learning **React, .NET Framework, GitHub Actions, Azure**
+- 🌱 I’m currently learning **Business Intelligence (Power BI), Power Automate and Power Apps**
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/iononi?tab=repositories)
 
@@ -70,6 +70,14 @@ I started my journey through programming world 2 years ago. To be honest with yo
 <br/>
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+</p>
+
+<br/>
+
+<h3 align="center"><b>Business Intelligence</b></h3>
+<br/>
+<p align="center">
+<a href="https://powerbi.microsoft.com/es-mx/" target="_blank" rel="noreferrer"> <img src="https://github.com/iononi/iononi/blob/main/icons/Power_BI_Logo.svg" alt="Power BI Logo" width="40" height="40"/> </a>
 </p>
 
 <br/>
